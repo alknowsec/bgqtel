@@ -1,0 +1,2 @@
+# bgqtel
+Daily digest notes
